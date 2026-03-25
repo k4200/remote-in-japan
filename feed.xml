@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remotework.jp</title>
+    <description>Tech companies in Japan that hire remote workers.</description>
+    <link>https://remotework.jp</link>
+    <atom:link href="https://remotework.jp/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Mar 2026 17:34:24 +0900</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 17:34:24 +0900</lastBuildDate>
+    <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>株式会社kickflow</title>
+        <description>&lt;p&gt;kickflowは、「エンタープライズ企業の課題と向き合い、未来を切り拓く」をミッションに、エンタープライズ向けクラウド稟議・ワークフロー SaaS「kickflow」を展開しています。&lt;br /&gt;さまざまなライフステージの社員が活躍できるように、フルリモート、フルフレックスで柔軟な働き方が可能です。&lt;br /&gt;&lt;br /&gt;■技術スタック&lt;br /&gt;バックエンド: Ruby on Rails, RSpec, Rubocop, Sidekiq&lt;br /&gt;フロントエンド: HTML, CSS, TypeScript, Vue.js, Nuxt.js, Vitest, ESLint&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://careers.kickflow.co.jp/&quot;&gt;採用情報はこちら&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jan 2026 10:21:57 +0900</pubDate>
+        <link>https://remotework.jp/ja/kickflow_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/kickflow_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>千株式会社</title>
+        <description>&lt;p&gt;「もっと、子どもに笑顔を。ずっと、託される存在へ。」をスローガンに掲げ、保育・教育領域に特化した総合保育テックサービス『はいチーズ！』を展開しています。&lt;br /&gt;&lt;br /&gt;インターネット写真販売「はいチーズ！フォト」、保育業務ICT「はいチーズ！システム」、給食食育サービス「はいチーズ！ベジ」など、累計保護者ユーザー数380万人以上、導入団体数20,000超の業界トップシェアを誇ります。&lt;br /&gt;&lt;br /&gt;PHP / Laravel / TypeScript / React / Vue.js / Golang / Kotlin / AWS / Docker / PostgreSQL / MySQL / Snowflake などを使用し、リモートワーク・ハイブリッド勤務を導入、年間休日120日以上でワークライフバランスを重視した働き方が可能です。&lt;br /&gt;&lt;a href=&quot;https://sencorp.co.jp/recruit-career&quot;&gt;採用情報&lt;/a&gt; / &lt;a href=&quot;https://sencorp.co.jp/recruit-career/development/&quot;&gt;エンジニア採用&lt;/a&gt; / &lt;a href=&quot;https://www.wantedly.com/companies/sencorp/stories&quot;&gt;Wantedly&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Nov 2025 13:38:25 +0900</pubDate>
+        <link>https://remotework.jp/ja/sencorp_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/sencorp_co_jp</guid>
+        
+        
+        <category>ja</category>
+        
+      </item>
+    
+      <item>
+        <title>SEN CORPORATION</title>
+        <description>&lt;p&gt;With the slogan “Bringing more smiles to children and becoming a trusted partner forever,” we operate comprehensive childcare tech services under the “HaiCheese!” brand, specializing in the childcare and education sector.&lt;br /&gt;&lt;br /&gt;Our services include internet photo sales “HaiCheese! Photo,” childcare ICT system “HaiCheese! System,” and school lunch service “HaiCheese! Vege,” serving over 3.8 million parent users and adopted by more than 20,000 facilities with industry-leading market share.&lt;br /&gt;&lt;br /&gt;We use PHP / Laravel / TypeScript / React / Vue.js / Golang / Kotlin / AWS / Docker / PostgreSQL / MySQL / Snowflake and offer remote work and hybrid work options with over 120 annual holidays, supporting work-life balance.&lt;br /&gt;&lt;a href=&quot;https://sencorp.co.jp/recruit-career&quot;&gt;Recruitment Info&lt;/a&gt; / &lt;a href=&quot;https://sencorp.co.jp/recruit-career/development/&quot;&gt;Engineer Recruitment&lt;/a&gt; / &lt;a href=&quot;https://www.wantedly.com/companies/sencorp/stories&quot;&gt;Wantedly&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Nov 2025 13:38:25 +0900</pubDate>
+        <link>https://remotework.jp/en/sencorp_co_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/en/sencorp_co_jp</guid>
+        
+        
+        <category>en</category>
+        
+      </item>
+    
+      <item>
+        <title>株式会社シャペロン</title>
+        <description>&lt;p&gt;私たちは「規制産業が抱える問題を解決する」というミッションのもと、製薬業界に特化したソリューションを提供するスタートアップです。&lt;br /&gt;&lt;br /&gt;製薬業界特有の法規制やコンプライアンスといった複雑な課題を解決するため、業務システム型SaaSとAIソリューションの両軸でプロダクトを開発・提供しています。正確さと信頼性が求められる領域で、テクノロジーによる変革を推進しています。&lt;br /&gt;&lt;br /&gt;◼️主なプロダクト・サービス&lt;br /&gt;&lt;ul&gt;&lt;li&gt;SaaS (&lt;a href=&quot;https://product.shaperon-inc.com/&quot;&gt;Shaperon Email&lt;/a&gt;): 製薬業界の厳格なコンプライアンスに準拠しつつ、医療従事者との効果的な1to1コミュニケーションを実現するメールサービスです。&lt;/li&gt;&lt;li&gt;AIソリューション (&lt;a href=&quot;https://ai-monitoring.shaperon-inc.com/&quot;&gt;モニタリングAI&lt;/a&gt; / 審査AI): 営業活動におけるコミュニケーション内容のAIモニタリングや、プロモーション資材のAIによる自動審査ソリューションなどを提供しています。&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;◼️技術スタックと開発環境&lt;br /&gt;SaaSはReact (TypeScript), Flask (Python)を使用し、インフラはAWS ECSをCDK (IaC)で運用しています。AIソリューションはPython, Streamlit, AWS, Google Colabなどを柔軟に採用しています。GitHub Copilot, Cursor, Claude Code, Codex等、AIコーディング支援ツールも自由に選択可能です。&lt;br /&gt;&lt;br /&gt;◼️関連リンク&lt;br /&gt;&lt;a href=&quot;https://shaperon.notion.site/Shaperon-Entrance-Book-7299fdd0c74e44b9a125c83376286b09&quot;&gt;採用情報&lt;/a&gt; / &lt;a href=&quot;https://shaperon.notion.site/Engineer-Entrance-Book-59977135145f42c09f6fb19e8a3fc83e&quot;&gt;Engineer Entrance Book&lt;/a&gt; / &lt;a href=&quot;https://note.shaperon-inc.com/&quot;&gt;note&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2025 14:46:35 +0900</pubDate>
+        <link>https://remotework.jp/ja/shaperon-inc_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/shaperon-inc_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>Shaperon, Inc.</title>
+        <description>&lt;p&gt;We are a startup dedicated to providing specialized solutions for the pharmaceutical industry, driven by our mission to “solve problems in regulated industries.”&lt;br /&gt;&lt;br /&gt;We develop and offer products centered on two main pillars: enterprise SaaS and AI solutions. Our goal is to address the complex challenges unique to the pharmaceutical sector, such as specific legal regulations and compliance requirements. We are driving technological transformation in a field where accuracy and reliability are paramount.&lt;br /&gt;&lt;br /&gt;◼️Main Products &amp;amp; Services&lt;br /&gt;&lt;ul&gt;&lt;li&gt;SaaS (&lt;a href=&quot;https://product.shaperon-inc.com/&quot;&gt;Shaperon Email&lt;/a&gt;): A communication service that enables effective 1-to-1 communication with healthcare professionals while adhering to the strict compliance standards of the pharmaceutical industry.&lt;/li&gt;&lt;li&gt;AI Solutions (&lt;a href=&quot;https://ai-monitoring.shaperon-inc.com/&quot;&gt;Monitoring AI&lt;/a&gt; / Review AI): We provide solutions such as AI-powered monitoring of sales communications and automated AI review of promotional materials.&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;◼️Tech Stack &amp;amp; Development Environment&lt;br /&gt;Our SaaS uses React (TypeScript) and Flask (Python), with its infrastructure running on AWS ECS managed via CDK (IaC). Our AI solutions flexibly utilize Python, Streamlit, AWS, and Google Colab. Developers are also free to choose AI coding assistance tools such as GitHub Copilot, Cursor, Claude Code, and Codex.&lt;br /&gt;&lt;br /&gt;◼️Related Links&lt;br /&gt;&lt;a href=&quot;https://shaperon.notion.site/Shaperon-Entrance-Book-7299fdd0c74e44b9a125c83376286b09&quot;&gt;Recruitment Info&lt;/a&gt; / &lt;a href=&quot;https://shaperon.notion.site/Engineer-Entrance-Book-59977135145f42c09f6fb19e8a3fc83e&quot;&gt;Engineer Entrance Book&lt;/a&gt; / &lt;a href=&quot;https://note.shaperon-inc.com/&quot;&gt;note&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2025 14:46:35 +0900</pubDate>
+        <link>https://remotework.jp/en/shaperon-inc_com</link>
+        <guid isPermaLink="true">https://remotework.jp/en/shaperon-inc_com</guid>
+        
+        
+        <category>en</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>株式会社カナリー</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://corp.canary-app.jp/&quot;&gt;株式会社カナリー&lt;/a&gt;は、【もっといい「当たり前」をつくる】をミッションに掲げ、&lt;br /&gt;不動産DX領域で事業展開するスタートアップ企業です。&lt;br /&gt;&lt;br /&gt;ヤマダホールディングスやクレディセゾンといった国内大手企業との資本業務提携なども実施しており、&lt;br /&gt;「カナリー」TVCMを全国で放映するなど知名度も高まってきています。&lt;br /&gt;社員は120名程度で、組織も拡大しつつ上場を目指しているグロースフェーズです。&lt;br /&gt;&lt;br /&gt;不動産テック領域内でプラットフォームとして構造的な優位性を確立すべく、&lt;br /&gt;&lt;ul&gt;&lt;li&gt;【BtoC】不動産マーケットプレイス「カナリー(CANARY)」  &lt;ul&gt;  &lt;li&gt;500万DL突破、App Storeでカテゴリ内ユーザー評価No.1の★4.8&lt;/li&gt;  &lt;/ul&gt;&lt;/li&gt;&lt;li&gt;【BtoB】： 不動産仲介業者特化型SaaS「カナリークラウド(CANARY Cloud)」  &lt;ul&gt;  &lt;li&gt;累計利用者数200万人突破。業界大手企業などへの導入を経て成長中&lt;/li&gt;  &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;といったようにtoC / toB両軸でサービスを開発・運用しており、&lt;br /&gt;複数の新規プロダクトも開発中です。&lt;br /&gt;&lt;br /&gt;使用技術はGo / Next.js / React Native / GCPなどで、チームトポロジーを参考にした開発組織づくりを行っています。 手前味噌ながら、「スタートアップらしからぬモダンで堅牢な開発環境ですね」とお褒めの言葉を頂くことが多いです。&lt;br /&gt;&lt;br /&gt;開発における生成AIの活用も積極的に行っており、GitHub Copilot、Cursor、Devinを利用できます。&lt;br /&gt;2025/6現在、Claude Codeも試験運用中です。（加えて、全社員有料版Geminiを利用可能です。）&lt;br /&gt;&lt;br /&gt;※開発本部のメンバー（エンジニア、デザイナー等）はフルリモートでの勤務が可能です！ &lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&quot;https://recruit.canary-app.jp/engineer-entrance-book#block-1bb1009a77028091bee2e23277d6c8ec&quot;&gt;エンジニア向けEntrance Book&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Aug 2025 13:34:16 +0900</pubDate>
+        <link>https://remotework.jp/ja/canary-app_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/canary-app_jp</guid>
+        
+        
+        <category>ja</category>
+        
+      </item>
+    
+      <item>
+        <title>Canary, Inc.</title>
+        <description>&lt;p&gt;We are a startup company with the mission of “Creating Better Standards,” operating in the real estate DX sector.&lt;br /&gt;&lt;br /&gt;We have established capital and business alliances with major domestic companies such as Yamada Holdings and Credit Saison, and our brand recognition has been growing through nationwide TV commercials for “CANARY”.&lt;br /&gt;With approximately 120 employees, our organization is in a growth phase aiming for an IPO.&lt;br /&gt;&lt;br /&gt;To establish a structural advantage as a platform in the real estate tech sector, we operate two main services:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;【BtoC】Real Estate Marketplace “CANARY”  &lt;ul&gt;  &lt;li&gt;Over 5 million downloads, rated 4.8★ (No.1 in category on App Store)&lt;/li&gt;  &lt;/ul&gt;&lt;/li&gt;&lt;li&gt;【BtoB】Real Estate Agent-Focused SaaS “CANARY Cloud”  &lt;ul&gt;  &lt;li&gt;Over 2 million cumulative users, growing with adoption by major industry players&lt;/li&gt;  &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;We are developing and operating services on both B2C and B2B fronts, with multiple new products under development.&lt;br /&gt;&lt;br /&gt;Our tech stack includes Go, Next.js, React Native, and GCP, with an development organization structure inspired by Team Topologies. We often receive praise for having “a modern and robust development environment unusual for a startup.”&lt;br /&gt;&lt;br /&gt;We actively utilize AI in development, with access to GitHub Copilot, Cursor, and Devin.&lt;br /&gt;As of June 2025, we are also testing Claude Code. (Additionally, all employees have access to the paid version of Gemini.)&lt;br /&gt;&lt;br /&gt;※Development team members (engineers, designers, etc.) are eligible for full remote work!&lt;br /&gt;&lt;br /&gt;&lt;li&gt;&lt;a href=&quot;https://recruit.canary-app.jp/engineer-entrance-book#block-1bb1009a77028091bee2e23277d6c8ec&quot;&gt;Engineer Entrance Book&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Aug 2025 13:34:16 +0900</pubDate>
+        <link>https://remotework.jp/en/canary-app_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/en/canary-app_jp</guid>
+        
+        
+        <category>en</category>
+        
+      </item>
+    
+      <item>
+        <title>株式会社ビートバップ</title>
+        <description>&lt;p&gt;私たちビートバップは「メタバースで世界をワクワクさせる」をミッションに、革新的なソリューションを開発する企業です 。完全フルリモートワーク体制を導入し、メンバー一人ひとりが時間や場所に捉われず、最高のパフォーマンスを発揮できる環境を重視しています。教育機関向け「ネクストデジタルスキルラボ」、法人向けメタバース「BizHubメタ」、イベント開催向け「ビートバップメタバースハイスクール」、人気ゲームプラットフォームFortniteを活用したプロモーション受託開発など、その事業は多岐にわたります 。3DCG、ゲームエンジン、生成AI、Three.js、ReactThreeFiberといった先端技術を駆使し、お客様のニーズを第一に考えた「ビジネス力」で、新たな価値創造と課題解決に貢献しています。&lt;br /&gt;&lt;a href=&quot;https://beatbop.jp/next_digital_skill_lab/&quot;&gt;事業ページ&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jun 2025 15:08:59 +0900</pubDate>
+        <link>https://remotework.jp/ja/beatbop_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/beatbop_jp</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>エースチャイルド株式会社</title>
+        <description>&lt;p&gt;ITのチカラで、子どもの未来を明るく。&lt;br /&gt;&lt;br /&gt;エースチャイルドは、子ども達を守るために、子ども達が安心安全に育つことができる社会を実現するために、ITのチカラで明るい未来を作る会社です。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.as-child.com/recruit/&quot;&gt;採用情報&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2025 14:08:06 +0900</pubDate>
+        <link>https://remotework.jp/ja/as-child_com</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/as-child_com</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+      <item>
+        <title>YassLab 株式会社</title>
+        <description>&lt;p&gt;『&lt;a href=&quot;https://railstutorial.jp&quot;&gt;Ruby on Railsチュートリアル&lt;/a&gt;』『&lt;a href=&quot;https://railsguides.jp&quot;&gt;Ruby on Railsガイド&lt;/a&gt;』『&lt;a href=&quot;https://coderdojo.jp&quot;&gt;coderdojo.jp&lt;/a&gt;』の開発・運営。&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/YassLab&quot;&gt;» GitHub を見る&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 22:31:48 +0900</pubDate>
+        <link>https://remotework.jp/ja/yasslab_jp</link>
+        <guid isPermaLink="true">https://remotework.jp/ja/yasslab_jp</guid>
+        
+        
+        <category>ja</category>
+        
+        <category>full_remote</category>
+        
+      </item>
+    
+  </channel>
+</rss>
